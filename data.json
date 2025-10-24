@@ -1,0 +1,127 @@
+{
+  "Lundi": {
+    "matin": {
+      "petitDejeuner": [
+        { "nom": "placali" },
+        { "nom": "Pain au beurre" },
+        { "nom": "Jus d'orange" }
+      ]
+    },
+    "midi": {
+      "entree": { "nom": "Salade verte", "prix": 800 },
+      "platResistance": [
+        { "nom": "Riz sauce graine", "prix": 2500 },
+        { "nom": "Foutou banane sauce claire", "prix": 3000 },
+        { "nom": "Poisson braisé", "prix": 3500 }
+      ],
+      "desserts": [
+        { "nom": "Fruits frais", "prix": 700 },
+        { "nom": "Crème caramel", "prix": 900 }
+      ],
+      "boissons": [
+        { "nom": "Eau minérale", "prix": 400 },
+        { "nom": "Coca-Cola", "prix": 600 }
+      ]
+    }
+  },
+  "Mardi": {
+    "matin": {
+      "petitDejeuner": [
+        { "nom": "Thé au lait" },
+        { "nom": "Brioche" },
+        { "nom": "Jus d'ananas" }
+      ]
+    },
+    "midi": {
+      "entree": { "nom": "Soupe de légumes", "prix": 1000 },
+      "platResistance": [
+        { "nom": "Riz au gras", "prix": 2500 },
+        { "nom": "Poulet DG", "prix": 3500 },
+        { "nom": "Spaghetti bolognaise", "prix": 3000 }
+      ],
+      "desserts": [
+        { "nom": "Yaourt nature", "prix": 800 },
+        { "nom": "Gâteau à la banane", "prix": 900 }
+      ],
+      "boissons": [
+        { "nom": "Eau gazeuse", "prix": 500 },
+        { "nom": "Bissap", "prix": 600 }
+      ]
+    }
+  },
+  "Mercredi": {
+    "matin": {
+      "petitDejeuner": [
+        { "nom": "Café noir" },
+        { "nom": "Croissant" },
+        { "nom": "Jus de mangue" }
+      ]
+    },
+    "midi": {
+      "entree": { "nom": "Salade composée", "prix": 1000 },
+      "platResistance": [
+        { "nom": "Riz sauce tomate", "prix": 2500 },
+        { "nom": "Attiéké poisson", "prix": 3500 },
+        { "nom": "Poulet kedjenou", "prix": 3000 }
+      ],
+      "desserts": [
+        { "nom": "Compote de fruits", "prix": 700 },
+        { "nom": "Glace vanille", "prix": 900 }
+      ],
+      "boissons": [
+        { "nom": "Eau minérale", "prix": 400 },
+        { "nom": "Soda", "prix": 600 }
+      ]
+    }
+  },
+  "Jeudi": {
+    "matin": {
+      "petitDejeuner": [
+        { "nom": "Lait chocolaté" },
+        { "nom": "Pain confiture" },
+        { "nom": "Jus de pomme" }
+      ]
+    },
+    "midi": {
+      "entree": { "nom": "Salade de carottes", "prix": 800 },
+      "platResistance": [
+        { "nom": "Riz sauce pistache", "prix": 2500 },
+        { "nom": "Poisson frit", "prix": 3000 },
+        { "nom": "Poulet pané", "prix": 3500 }
+      ],
+      "desserts": [
+        { "nom": "Salade de fruits", "prix": 700 },
+        { "nom": "Flan", "prix": 900 }
+      ],
+      "boissons": [
+        { "nom": "Jus de tamarin", "prix": 500 },
+        { "nom": "Eau gazeuse", "prix": 400 }
+      ]
+    }
+  },
+  "Vendredi": {
+    "matin": {
+      "petitDejeuner": [
+        { "nom": "Thé citron" },
+        { "nom": "Pain au lait" },
+        { "nom": "Jus de bissap" }
+      ]
+    },
+    "midi": {
+      "entree": { "nom": "Soupe de poisson", "prix": 1200 },
+      "platResistance": [
+        { "nom": "Riz sauce arachide", "prix": 2500 },
+        { "nom": "Attiéké poulet", "prix": 3000 },
+        { "nom": "Garba", "prix": 1500 }
+      ],
+      "desserts": [
+        { "nom": "Tiramisu", "prix": 900 },
+        { "nom": "Yaourt sucré", "prix": 700 }
+      ],
+      "boissons": [
+        { "nom": "Coca-Cola", "prix": 600 },
+        { "nom": "Eau minérale", "prix": 400 }
+      ]
+    }
+  }
+}
