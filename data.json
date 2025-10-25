@@ -120,9 +120,10 @@
       ],
       "boissons": [
         { "nom": "Coca-Cola", "prix": 600 },
-        { "nom": "Eau minérale" }
+        { "nom": "Eau minérale", "prix" : 400 }
       ]
     }
   }
 }
+
 
